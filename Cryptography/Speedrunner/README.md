@@ -25,4 +25,4 @@ SHI ZAAAAA (cipher)
 ## Flag
 ```
 tjctf{new_tech_new_tech_go_fast_go_fast}
-```...
+```
