@@ -11,6 +11,7 @@ Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab h
   - Menaikan `gold` agar bisa membeli apapun pada `shop`
   - Merubah damage pedang
   - Menambah `speed` agar bisa melewati portal
+  ![alt_text](https://github.com/fikrihaykal/WriteUp_TJCTF2020_05311840000006_FikriHaykal/blob/master/src/GamerW2.jpg?raw=True)
 - Setelah itu kita bisa dengan mudah menemukan flagnya
 
 ## Flag
